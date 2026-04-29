@@ -1,6 +1,6 @@
 <h1>👩‍💻 Leslie Emaneuele Greuel</h1>
 
-<p align="center">
+<p>
 🎓 Estudante de Ciência da Computação <br>
 </p>
 
