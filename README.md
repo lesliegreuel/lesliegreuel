@@ -1,4 +1,4 @@
-<h1 align="center">👩‍💻 Leslie Emaneuele Greuel</h1>
+<h1>👩‍💻 Leslie Emaneuele Greuel</h1>
 
 <p align="center">
 🎓 Estudante de Ciência da Computação <br>
