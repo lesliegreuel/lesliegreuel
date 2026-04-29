@@ -16,7 +16,7 @@ Atualmente, estou aprimorando minhas habilidades em estruturas de dados, program
    
 ---
 
-## 🚀 Tecnologias e Idiomas
+## 🚀 Tecnologias 
 
 <p align="center">
 
