@@ -48,4 +48,4 @@ Busco uma oportunidade de estágio na área de desenvolvimento de software, onde
 
 ## 📫 Contato
 📧 greuel.leslie@gmail.com  
-💼 https://linkedin.com/in/
+💼 https://www.linkedin.com/in/leslie-emanuele-greuel-1702b8280/
